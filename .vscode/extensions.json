@@ -1,3 +1,14 @@
+// Dependant on the haxe extension pack + other haxe tools
 {
-    
+    "recommendations": [
+        "nadako.vshaxe",
+        "vshaxe.haxe-debug",
+        "wiggin77.codedox",
+        "vshaxe.hxcpp-debugger",
+        "haxefoundation.haxe-hl",
+        "influrium.haxe-jsx",
+        "matronator.haxeui",
+        "openfl.lime-vscode-extension",
+        "influrium.templo"
+    ]
 }
