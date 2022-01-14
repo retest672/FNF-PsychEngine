@@ -6,9 +6,14 @@
         "wiggin77.codedox",
         "vshaxe.hxcpp-debugger",
         "haxefoundation.haxe-hl",
+        // End of haxe extension pack
         "influrium.haxe-jsx",
         "matronator.haxeui",
         "openfl.lime-vscode-extension",
-        "influrium.templo"
+        "influrium.templo",
+        // Also dependant on the c/c++ extension pack
+        "ms-vscode.cpptools-extension-pack"
+        // "esbenp.prettier-vscode"
+        // [insert autocomplete extension ID here]
     ]
 }
