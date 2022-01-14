@@ -1,3 +1,5 @@
+// Controls whether the editor should have a smooth cursor.
 {
-    
+    "editor.cursorBlinking": "phase", // Can be set to "Blink" to disable smooth blinking
+    "editor.cursorSmoothCaretAnimation": true // Can be set to false to disable smooth typing
 }
